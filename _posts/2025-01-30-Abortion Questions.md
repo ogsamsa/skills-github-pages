@@ -7,7 +7,7 @@ date: 2025-01-30
  For patients who are further along, leaving the state is a legal and safe option.
  
 Choices is an abortion clinic located in Carbondale, Illinois. It is a three hour, 200 mile drive from Nashville. They
-offer abortion care to out state patients by appointment only. Their phone number is 618-300-6017 and their website is (yourchoices.org).
+offer abortion care to out state patients by appointment only. Their phone number is 618-300-6017 and their website is www.yourchoices.org.
 
 When a patient calls to make an appointment, they will be asked to provide a name and date of birth along with some demographic
 information. They may be asked for their marital status but an answer is not required. You are not required to provide a physical or 
@@ -47,6 +47,6 @@ to be shared with funding organizations if financial assistance is needed, but t
 
 Self-administered medication abortions are illegal in the state of Tennessee. They can carry some medical complications and are not 
 recommended if receiving care from professionals at a licensed clinic is an option. However, abortion medications can be procured by mail. 
-More information can be found at ineedana.com as well as plancpills.org.
+More information can be found at www.ineedana.com as well as www.plancpills.org.
 
 Choices performs abortions by appointment only and will require that patients show ID when arriving for their appointment.
