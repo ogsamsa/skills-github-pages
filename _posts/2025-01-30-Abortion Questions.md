@@ -7,7 +7,7 @@ date: 2025-01-30
  For patients who are further along, leaving the state is a legal and safe option.
  
 Choices is an abortion clinic located in Carbondale, Illinois. It is a three hour, 200 mile drive from Nashville. They
-offer abortion care to out state patients by appointment only. Their phone number is 618-300-6017 and their website is yourchoices.org.
+offer abortion care to out state patients by appointment only. Their phone number is 618-300-6017 and their website is (yourchoices.org).
 
 When a patient calls to make an appointment, they will be asked to provide a name and date of birth along with some demographic
 information. They may be asked for their marital status but an answer is not required. You are not required to provide a physical or 
