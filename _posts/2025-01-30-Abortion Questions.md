@@ -2,8 +2,9 @@
 title: "Abortion Questions"
 date: 2025-01-30
 ---
-	Abortions can only be performed in the state of Tennessee up to 6 weeks of pregnancy. For patients who are further along,
- leaving the state is a legal and safe option.
+	
+ Abortions can only be performed in the state of Tennessee up to 6 weeks of pregnancy. 
+ For patients who are further along, leaving the state is a legal and safe option.
 	Choices is an abortion clinic located in Carbondale, Illinois. It is a three hour, 200 mile drive from Nashville. They
  offer abortion care to out state patients by appointment only. Their phone number is 618-300-6017 and their website is yourchoices.org.
 	When a patient calls to make an appointment, they will be asked to provide a name and date of birth along with some demographic
