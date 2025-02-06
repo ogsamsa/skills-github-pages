@@ -1,0 +1,8 @@
+---
+layout: default
+title: Photo
+---
+
+<h1>View My Photo</h1>
+
+<embed src="/assets/pdfs/Immigration Resources Printable-1.pdf" type="application/pdf" width="100%" height="800px" />
