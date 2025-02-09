@@ -15,9 +15,9 @@ TIRRC Headquarters: 3310 Ezell Rd Nashville, TN 37211 United States
 
 U.S. Citizenship and Immigration Services (Government Website)
 
-(https://www.uscis.gov/tools) 
-(https://www.uscis.gov/tools/uscis-tools-and-resources/immigration-documents-and-how-to-correct-update-or-replace-them)
-(https://www.uscis.gov/tools/multilingual-resourcecenter)
+[Tools](https://www.uscis.gov/tools) 
+[Updating and Replacing Immigration Documents](https://www.uscis.gov/tools/uscis-tools-and-resources/immigration-documents-and-how-to-correct-update-or-replace-them)
+[Resource Center](https://www.uscis.gov/tools/multilingual-resourcecenter)
 
 [Families For Freedom ICE Check-In Accompaniment Form](bit.ly/icecheckin)
 
