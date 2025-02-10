@@ -52,4 +52,4 @@ of their age. If this changes, this article will be updated to reflect the new r
 
 Self-administered medication abortions are illegal in the state of Tennessee. They can carry some medical complications and are not 
 recommended if receiving care from professionals at a licensed clinic is an option. However, abortion medications can be procured by mail. 
-More information can be found at www.ineedana.com as well as www.plancpills.org.
+More information can be found at [I Need An A](www.ineedana.com) as well as [Plan C Pills](www.plancpills.org).
