@@ -22,8 +22,9 @@ It is extremely important that patients are honest about their last period and g
 progression of the pregnancy will determine the abortion care that is needed and administering care in the wrong form can lead to serious 
 medical complications.
 
-Illinois clinics are able to perform abortions via medication up to 10 weeks and 6 days. After that point, a surgical abortion 
-would be needed and this can be performed up to 14 weeks and 6 days into the pregnancy.
+Choices performs abortions via medication up to 10 weeks and 6 days. After that point, a surgical abortion 
+would be needed and this can be performed up to 14 weeks and 6 days into the pregnancy. Other clinics in Illinois may have different
+timelines but this will vary by clinic & later term abortions may require a longer recovery period before travelling.
 
 An abortion in Illinois is a single day process. Patients can expect to be able to drive themselves home or ride home the same day 
 after a medication abortion. Patients can expect to be able to ride home the same day after a surgical abortion, though they won’t be able 
