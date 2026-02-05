@@ -8,7 +8,7 @@ Common ICE Vehicles:
 
 Vehículos ICE comunes:
 
-[![Common ICE Vehicles]({{ '/ice-vehicles.png' | relative_url }})]({{ '/ice-vehicles.png' | relative_url }})
+[![Common ICE Vehicles]({{ '/Ice-Vehicle-Chart.png' | relative_url }})]({{ '/Ice-Vehicle-Chart.png' | relative_url }})
 
 If you see ICE, report them here:
 
