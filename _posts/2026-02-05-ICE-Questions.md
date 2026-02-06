@@ -28,7 +28,7 @@ Una orden judicial debe estar firmada por un juez.
 
 If an ICE agent tries to enter your home, repeat "I do not consent to a search of my home." Record as much as you can on video.
 
-Si un agente de ICE intenta entrar en su casa, repita: "No doy mi consentimiento para que registren mi casa". Grabe todo lo que pueda en vídeo.
+Si un agente de ICE intenta entrar en su casa, repita: "No doy mi consentimiento para que registren mi casa/I do not consent to a search of my home." Grabe todo lo que pueda en vídeo.
 
 Here is a QR code to the Winter Prep Document linked above
 
